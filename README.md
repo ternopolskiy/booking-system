@@ -1,6 +1,5 @@
 # Система бронирования мест
 
-[![CI](https://github.com/your-username/booking-system/workflows/CI/badge.svg)](https://github.com/your-username/booking-system/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D25.2.1-brightgreen)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)](https://www.typescriptlang.org/)
