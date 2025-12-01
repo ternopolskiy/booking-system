@@ -1,0 +1,12 @@
+src/
+tests/
+scripts/
+
+tsconfig.json
+jest.config.js
+.env.example
+
+API_TESTING.md
+
+*.log
+.DS_Store
